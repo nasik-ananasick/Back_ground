@@ -1,0 +1,17 @@
+<Page x:Class="Background.Pages.AccInfoPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Background.Pages"
+      mc:Ignorable="d"
+      Title="AccInfoPage" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+    <Grid>
+        <StackPanel Margin="30">
+            <TextBlock x:Name="AccountEmail" Text="email" Height="40" FontSize="30" VerticalAlignment="Top" Margin="4"
+                       Width="400" Foreground="black" />
+            <TextBlock x:Name="AccountNickName" Text="Nick" Height="40" FontSize="30" VerticalAlignment="Top" Margin="4"
+                       Width="400" Foreground="black" />
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=PAGES_005CADD_002EPNG/@EntryIndexedValue">Pages\add.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=PAGES_005CCOMMENT_002EPNG/@EntryIndexedValue">Pages\comment.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=PAGES_005CHOME_002EPNG/@EntryIndexedValue">Pages\home.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=PAGES_005CMYPAGE_002EPNG/@EntryIndexedValue">Pages\mypage.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=PAGES_005CZOOM_002EPNG/@EntryIndexedValue">Pages\zoom.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=PAGES_005CADD_002EPNG/@EntryIndexedValue">Pages\add.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=PAGES_005CCOMMENT_002EPNG/@EntryIndexedValue">Pages\comment.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=PAGES_005CHOME_002EPNG/@EntryIndexedValue">Pages\home.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=PAGES_005CMYPAGE_002EPNG/@EntryIndexedValue">Pages\mypage.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=PAGES_005CZOOM_002EPNG/@EntryIndexedValue">Pages\zoom.png</s:String></wpf:ResourceDictionary>
